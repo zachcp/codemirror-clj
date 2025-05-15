@@ -1,5 +1,7 @@
 # codemirror-clj
 
+Using CodeMirror-Clojure with UIX.
+
 ## Quick setup
 ```shell
 npm i # install NPM deps
